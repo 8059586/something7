@@ -1,7 +1,7 @@
 #include<WiFi.h>
 
 const char ssid[] = "8059586";
-const char password[] = "20060516";
+const char password[] = "@))^)%!^";
 
 const int potpin = 34;
 
